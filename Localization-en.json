@@ -27,7 +27,7 @@
         {
             "SkillType": "1004",
             "Title": "Strike",
-            "Description": "ランダムな敵に<physical> {maindamagerate}%（出力容量）physical </physical>および<caster> {casterdamagerate}%（出力容量）キャスターのエレメンタル</caster>ダメージを与え、追加ダメージを与えるクリティカルヒットした場合。",
+            "Description": "ランダムな敵に<physical> {maindamagerate}%（出力容量）物理</physical>および<caster> {casterdamagerate}%（出力容量）キャスターのエレメンタル</caster>ダメージを与え、追加ダメージを与えるクリティカルヒットした場合。",
             "PassiveDescription": ""
         },
         {
@@ -39,19 +39,19 @@
         {
             "SkillType": "1006",
             "Title": "Steal Soul",
-            "Description": "ヘルスポイントが最も少ない敵に<physical> {maindamagerate}%（出力容量）physical </physical>および<caster> {casterdamagerate}%（出力容量）キャスターのエレメンタル</caster>ダメージを与え、クリティカルヒットした場合、ターゲットから1つのポジティブな効果を取り除きます。",
+            "Description": "ヘルスポイントが最も少ない敵に<physical> {maindamagerate}%（出力容量）物理</physical>および<caster> {casterdamagerate}%（出力容量）キャスターのエレメンタル</caster>ダメージを与え、クリティカルヒットした場合、ターゲットから1つのポジティブな効果を取り除きます。",
             "PassiveDescription": ""
         },
         {
             "SkillType": "1007",
             "Title": "Stun",
-            "Description": "最高のagilityを持つ敵に、<physical> {maindamagerate}%（出力容量）physical </physical>および<caster> {casterdamagerate}%（出力容量）キャスターのエレメンタル</caster>ダメージを与える1ターンの間{chance}%の確率で目標を麻痺させます。",
+            "Description": "最高のagilityを持つ敵に、<physical> {maindamagerate}%（出力容量）物理</physical>および<caster> {casterdamagerate}%（出力容量）キャスターのエレメンタル</caster>ダメージを与える1ターンの間{chance}%の確率で目標を麻痺させます。",
             "PassiveDescription": ""
         },
         {
             "SkillType": "1008",
             "Title": "Taunt",
-            "Description": "すべての敵ターゲットにキャスターの<physical> {maindamagerate}%（出力容量）physical </physical>および<caster> {casterdamagerate}%（出力容量）キャスターのエレメンタル</caster>ダメージを与え、挑発する4秒間。",
+            "Description": "すべての敵ターゲットにキャスターの<physical> {maindamagerate}%（出力容量）物理</physical>および<caster> {casterdamagerate}%（出力容量）キャスターのエレメンタル</caster>ダメージを与え、挑発する4秒間。",
             "PassiveDescription": ""
         },
         {
@@ -273,7 +273,7 @@
         {
             "SkillType": "1046",
             "Title": "Shock",
-            "Description": "すべての敵ユニットに<physical> {maindamagerate}%（出力容量）physical </physical>および<caster> {casterdamagerate}%（出力容量）キャスターのエレメンタル</caster>ダメージを与え、1の有益な分散効果、およびターゲットの{progresschangerate}%ターンの進捗を押し戻します。",
+            "Description": "すべての敵ユニットに<physical> {maindamagerate}%（出力容量）物理</physical>および<caster> {casterdamagerate}%（出力容量）キャスターのエレメンタル</caster>ダメージを与え、1の有益な分散効果、およびターゲットの{progresschangerate}%ターンの進捗を押し戻します。",
             "PassiveDescription": ""
         },
         {
@@ -465,7 +465,7 @@
         {
             "SkillType": "1079",
             "Title": "Crash",
-            "Description": "ランダムな敵ユニットに{numberofactivetriggers}のヒットを解き放ち、各ヒットは<physical> {maindamagerate}%（出力容量）physical </physical>および<caster> {casterdamagerate}%（出力容量）キャスターを扱いますelemental </caster>ダメージ。",
+            "Description": "ランダムな敵ユニットに{numberofactivetriggers}のヒットを解き放ち、各ヒットは<physical> {maindamagerate}%（出力容量）物理</physical>および<caster> {casterdamagerate}%（出力容量）キャスターを扱いますelemental </caster>ダメージ。",
             "PassiveDescription": "Increase all of caster's resistances by {boostrate}%."
         },
         {
@@ -477,7 +477,7 @@
         {
             "SkillType": "1081",
             "Title": "Thousand Knives",
-            "Description": "すべての敵ユニットから1つのポジティブな効果を払拭し、<physical> {maindamagerate}%（出力容量）physical </physical>および<caster> {casterdamagerate}%（出力容量）キャスターのエレメンタル</caster>損傷。",
+            "Description": "すべての敵ユニットから1つのポジティブな効果を払拭し、<physical> {maindamagerate}%（出力容量）物理</physical>および<caster> {casterdamagerate}%（出力容量）キャスターのエレメンタル</caster>損傷。",
             "PassiveDescription": "Increase {boostrate}%of caster's strength."
         },
         {
